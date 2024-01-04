@@ -14,3 +14,7 @@ To implement this python rock paper scissors project we will use the basic conce
 2)Conditional statements are used to provide cetrain conditons for win/lose of the computer or the player.
 <br>
 This is a very basic practice project to practice conditional statements !!
+
+
+RockPaperScissor : Using Conditional statements 
+RockPaperScissor--2 : Using Conditional statemtnts with functions
